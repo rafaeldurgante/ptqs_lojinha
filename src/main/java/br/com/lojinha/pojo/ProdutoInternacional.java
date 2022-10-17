@@ -10,7 +10,7 @@ public class ProdutoInternacional extends Produto implements Favorito {
     }
 
     public void setValor(double novoValor) {
-        if (novoValor > -100) {
+        if (novoValor > -200) {
             this.valor = novoValor;
         } else {
             throw new IllegalArgumentException("Valores devem ser maiores do que -100");
