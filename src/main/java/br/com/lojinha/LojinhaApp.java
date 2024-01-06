@@ -63,31 +63,5 @@ public class LojinhaApp {
         System.out.println(meuproduto.getItensInclusos().get(2).getNome());
         System.out.println(meuproduto.getItensInclusos().get(2).getQuantidade());
 
-
-
-
-
-
-        /*
-        System.out.println("Hello World");
-
-        String cargo = "Analista de Qualidade 3";
-        System.out.println(cargo);
-
-        int minhaIdade = 38;
-        System.out.println(minhaIdade);
-
-        double meuSalario = 8500.50;
-        System.out.println(meuSalario);
-
-        String empresa = "WEX";
-        System.out.println(empresa);
-
-        boolean empregado = true;
-        System.out.println(empregado);
-        */
-
-
-
     }
 }
